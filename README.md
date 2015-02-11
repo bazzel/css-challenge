@@ -6,7 +6,9 @@ Your assignment for this challenge is to build an HTML page for a given mockup a
 
 Once you're finished, compare and discuss your result with the other teams and learn from each other.
 
-That's about it. Simple, isn't it? To be honest, there's no hidden agenda here, no rabbit along the way. I just think it's interesting to see how other front-end developers build the pages and organize their code. And I bet, no matter your personal skills, you can learn from this challenge as well.
+That's about it. Simple, isn't it?
+
+To be honest, there's no hidden agenda here, no rabbit along the way. I just think it's interesting to see how other front-end developers build and style pages and organize their code. And I bet, no matter your personal skills, you can learn from this challenge as well.
 
 ## Iterations
 
@@ -33,6 +35,7 @@ Finally we discuss each other findings and who knows, maybe we can come up with 
 If you think you need some more challenge, you can define your own goals. This can be anything that is related to this challenge, for example:
 
 * Try to implement something you always wanted to use
+* Write unit tests for CSS
 * Create/generate a styleguide
 * Analyze the loading speed of your page
 * etc.
