@@ -4,11 +4,11 @@
 ## The Challenge
 Your assignment for this challenge is to build an HTML page for a given mockup and style it with CSS. For this, you team up with a colleague.
 
-Once you're finished, compare and discuss your result with the other teams and learn from each other.
+Once you've finished, compare and discuss your result with the other teams and learn from each other.
 
 That's about it. Simple, isn't it?
 
-To be honest, there's no hidden agenda here, no rabbit along the way. I just think it's interesting to see how other front-end developers build and style pages and organize their code. And I bet, no matter your personal skills, you can learn from this challenge as well.
+And to be clear, there's no hidden agenda here, no rabbit along the way. I just think it's interesting to see how other front-end developers build and style pages and organize their code. And I bet, no matter your personal skills, you can learn from this challenge as well.
 
 ## Iterations
 
