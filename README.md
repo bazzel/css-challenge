@@ -48,7 +48,7 @@ Remember that extra goals are extra, so make sure you finish the assignments any
 ## The Rules of The Game
 * Team up with a colleague or work alone (although the latter is not encouraged). It's not relevant what skills any of you've have, as long as you how to build a page in HTML and CSS.
 * Use the tools you prefer. As long as your product ends up as a web page, anything is allowed.
-* Make sure you're in the office when you work on your assignment. This is important since we think it's a good way to share as much knowledge as possible. 
+* Make sure you're in the office when you work on your assignment. This is important because we think this is a good way to share as much knowledge as possible. It's a challenge, no competitions and you're even encouraged to help others or ask others to help you.
 * When you love to join, but you're not able to attend (some or all events), please contact you team coach.
 * Only start with the next iteration, when you've finished the current one. Although you might have access to all iterations, it's fair to pretend you're working for a customer that changes requirements along the way you're currently not aware of.
 * Put your project up on [GitHub](https://github.com).
