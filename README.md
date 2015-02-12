@@ -54,7 +54,7 @@ Remember that extra goals are extra, so make sure you finish the assignments any
 * Put your project up on [GitHub](https://github.com).
 * Working 'pixel perfect' is allowed, but not required. Rather be consistent.
 
-## The Assigments
+## The Assignments
 
 > **Spoiler alert**: this paragraph contains links to the actual assignments. Make sure you only click them when you're asked to start working on them. Only then you have just enough information to succesfully build a realistic product.
 
